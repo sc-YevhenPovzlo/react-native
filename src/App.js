@@ -15,7 +15,7 @@ function App() {
         <Link to="/NonExistingPage">NonExistingPage</Link> 
         <Routes>
           <Route path="page1" element={<Article />} />
-          <Route  path="page2" element={<Article />}/>
+          <Route  path="Products/qa-l1-relays/qa-l2-high-voltage-dc-contactor-relays/qa-l3/qa-l4-sensing-resistors" element={<Article />}/>
           <Route path="*" element={<NoPage />} />
         </Routes>
         </BrowserRouter>
